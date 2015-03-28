@@ -1,1 +1,1 @@
-# samarthmshah.github.io
+# Simply redirects to original GitHub page.
