@@ -1,5 +1,8 @@
-/fonts
-/javascripts
+fonts/*
+javascripts/*
+*.js
+*.css
 *.json
+.DS_Store
 indexLATER.html
-/css
+stylesheets/*
